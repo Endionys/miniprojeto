@@ -72,6 +72,9 @@ header{
    
     
 }
+article> h2 h1{
+    background-image: -o-linear-gradient(to left, var(--cor4),var(--cor2));
+}
 header>h1{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
